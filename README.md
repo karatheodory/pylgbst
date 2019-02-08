@@ -336,6 +336,7 @@ Then push green button on MoveHub, so permanent BLE connection will be establish
 ## Links
 
 - https://github.com/JorgePe/BOOSTreveng - source of protocol knowledge
+- https://lego.github.io/lego-ble-wireless-protocol-docs/ - a newly released official documentation of the LEGO® BLE protocol used by Hub
 - https://github.com/spezifisch/sphero-python/blob/master/BB8joyDrive.py - example with another approach to bluetooth libs
 
 Some things around visual programming:
